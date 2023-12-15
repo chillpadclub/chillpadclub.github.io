@@ -8,8 +8,8 @@ baseurl: '/'
 # disable_landing_page: true
 
 author:
-  name: 'Proxy ChillPad Club'
-  email: info@chillpad.club
+  name: 'ChillPad Club'
+  #email: info@chillpad.club
   #twitter_username: joshgerdes
   #facebook_username: joshgerdes
   #github_username:  joshgerdes
