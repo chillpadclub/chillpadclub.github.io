@@ -1,8 +1,8 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: Proxy ChillPad Club
+description: 'Proxy ChillPad Club - это прокси-сервис для доступа к сводному интернету'
 url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
