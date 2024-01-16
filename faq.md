@@ -2,7 +2,7 @@
 layout: page
 title: FAQ
 description: Если Вы не нашли ответ на свой вопрос, напишите в поддержку.
-image: assets/images/pic01.jpg
+image: assets/images/faq.jpg
 nav-menu: true
 ---
 
