@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ
+description: Ответы на основные вопросы. Если Вы не нашли ответ на свой вопрос, напишите в поддержку.
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
