@@ -1,7 +1,6 @@
 ---
 title: Пользовательское соглашение
 layout: post
-nav-menu: true
 show_tile: false
 ---
 
