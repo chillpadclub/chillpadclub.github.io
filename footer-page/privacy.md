@@ -2,6 +2,7 @@
 title: Политика конфиденциальности
 layout: post
 nav-menu: true
+show_tile: false
 ---
 
 ## ОБЩИЕ ПОЛОЖЕНИЯ
