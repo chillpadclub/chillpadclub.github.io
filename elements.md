@@ -2,6 +2,7 @@
 layout: page
 title: Elements
 image: assets/images/pic01.jpg
+show_tile: false
 ---
 
 <!-- Main -->
