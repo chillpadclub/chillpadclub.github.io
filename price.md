@@ -3,7 +3,7 @@ layout: post
 title: Тарифы
 description: Цены на подписки.
 image: assets/images/faq.jpg
-nav-menu: true
+show_tile: false
 ---
 <div class="row">
     <div class="4u 12u$(medium)">
