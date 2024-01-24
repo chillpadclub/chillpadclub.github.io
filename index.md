@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'ChillPad VPN'
+landing-title: 'CHILLPAD VPN'
 description: null
-image: assets\images\favicon.png
+image: null
 author: null
 show_tile: false
 ---
