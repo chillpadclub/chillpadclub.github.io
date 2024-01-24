@@ -14,7 +14,7 @@ country:
 phone: 
 
 favicon:
-  source: assets\images\favicon.png
+  source: assets/images/favicon.png
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
