@@ -1,6 +1,6 @@
 ---
 title: Пользовательское соглашение
-layout: post
+layout: page
 show_tile: false
 ---
 
