@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: FAQ
 description: Если Вы не нашли ответ на свой вопрос, напишите в поддержку.
 image: assets/images/faq.jpg
