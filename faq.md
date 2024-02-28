@@ -15,7 +15,10 @@ nav-menu: true
 
 
 
-<iframe width = 123vw height="315" src="https://www.youtube.com/embed/GMrVw4IIsUs?si=kKoOc7-hgGgcGOhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width = 560vw height = 315vh src="https://www.youtube.com/embed/GMrVw4IIsUs?si=kKoOc7-hgGgcGOhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 
 
 
