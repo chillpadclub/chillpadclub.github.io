@@ -9,7 +9,7 @@ header_pages:
 footer: 'Подключить <a href="https://t.me/CP_VPNBot">ChillPad VPN</a> | <a href="/privacy">Политика конфиденциальности</a> | <a href="/terms">Пользовательское соглашение</a>'
 
 style: light # dark (default) or light
-listen_for_clients_preferred_style: true # true or false (default)
+listen_for_clients_preferred_style: false # true or false (default)
 
 plugins:
   - jekyll-seo-tag

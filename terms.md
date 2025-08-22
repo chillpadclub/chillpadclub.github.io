@@ -1,7 +1,7 @@
 ---
 title: Пользовательское соглашение
 layout: page
-permalink: tems
+permalink: terms
 ---
 
 ## ОПРЕДЕЛЕНИЯ
