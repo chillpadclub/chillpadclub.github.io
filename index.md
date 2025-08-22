@@ -9,5 +9,6 @@ permalink: /
 # Инструкции:
 ### - [Как обновить настройки]({{ "/update_subs" | relative_url }})
 
-<img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@CP_VPN&style=for-the-badge" alt="Telegram">
+![Telegram](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@CP_VPN&style=for-the-badge)](https://t.me/CP_VPN)
+
 [Наш канал](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@CP_VPN&style=for-the-badge)
