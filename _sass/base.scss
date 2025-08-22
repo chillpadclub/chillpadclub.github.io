@@ -31,23 +31,22 @@ header { margin-top: 25px;  margin-bottom: 10px; }
 header p { text-align: left;  margin: 0; }
 //footer { margin-bottom: 20px; }
 footer {
-  color: var(--text-color);
+  display: flex;                    /* включаем flex */
+  justify-content: space-between;    /* левый влево, правый вправо */
+  align-items: center;               /* вертикальное выравнивание */
   border-top: var(--border);
-  margin: 20px auto;
-  padding-top: 10px;
-
-  display: flex;                 /* включаем flexbox */
-  justify-content: space-between; /* левый блок слева, правый справа */
-  align-items: center;           /* выравнивание по вертикали */
+  padding: 10px 20px;
   max-width: $container-max-width;
   width: $container-width;
+  margin: 0 auto;
+  color: var(--text-color);
 }
 
 .footer-left a,
 .footer-right a {
-  color: var(--link-color);
   text-decoration: none;
   margin: 0 5px;
+  color: var(--link-color);
 }
 
 .footer-left a:hover,
@@ -55,6 +54,7 @@ footer {
   color: var(--background-color);
   background-color: var(--base-color);
 }
+
 
 
 
