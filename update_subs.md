@@ -12,7 +12,7 @@ permalink: /update_subs
 
 ## v2raytun
 #### На iOS достаточно нажать одну кнопку.
-<img src="{{ "/v2raytun-ios.jpeg" | relative_url }}" alt="iOS. Обновление подписки" width="600">
+<img src="{{ "/assets/media/v2raytun-ios.jpeg" | relative_url }}" alt="iOS. Обновление подписки">
 
 #### На Android чуть иначе, но также просто.
-<img src="{{ "/v2raytun-android.jpeg" | relative_url }}" alt="Andoird. Обновление подписки." width="600">
+<img src="{{ "/assets/media/v2raytun-android.jpeg" | relative_url }}" alt="Andoird. Обновление подписки." width="600">
