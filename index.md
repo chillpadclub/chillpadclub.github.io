@@ -6,16 +6,35 @@ permalink: /
 
 # [Подключить ChillPad VPN](https://t.me/CP_VPNbot)
 
+---
+
+# 1 Тест
+
+---
+
+## 2 Текст
+
+---
+
+### 3 Тост
+
+---
+
+> 123
+
+---
+
+1. 123
+2. 234
+3. 345
+
+---
+
+- 123
+- 234
+- 345
+
+---
+
 # Инструкции:
 ### - [Как обновить настройки]({{ "/update_subs" | relative_url }})
-
-![Telegram](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@CP_VPN&style=for-the-badge)
-
-[Наш канал](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@CP_VPN&style=for-the-badge)
-
-<a href="https://t.me/CP_VPN">
-  <img src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=%40CP_VPN&style=for-the-badge" alt="Telegram Badge">
-</a>
-
-
-[![Telegram2](https://telegram-badge.vercel.app/api/telegram-badge?channelId=%40CP_VPN&style=for-the-badge)](https://t.me/CP_VPN)
