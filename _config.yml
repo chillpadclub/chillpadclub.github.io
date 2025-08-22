@@ -12,7 +12,7 @@ privacy: <a href="/privacy">Политика конфиденциальност�
 terms: <a href="/terms">Пользовательское соглашение</a>
 
 style: light # dark (default) or light
-listen_for_clients_preferred_style: false # true or false (default)
+listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
   - jekyll-seo-tag
