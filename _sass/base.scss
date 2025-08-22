@@ -26,31 +26,39 @@ a:hover { color: var(--background-color); background-color: var(--base-color); }
  */
 .container { width: $container-width;  max-width: $container-max-width;  margin-right: auto;  margin-left: auto; }
 p { word-wrap: break-word;  word-break: break-word;  white-space: pre-wrap; margin-bottom: 15px; }
-//footer { color: var(--text-color);  border-top: var(--border);  margin: 20px auto 15px;  padding-top: 10px;  text-align: center; }
 header { margin-top: 25px;  margin-bottom: 10px; }
 header p { text-align: left;  margin: 0; }
-//footer { margin-bottom: 20px; }
+
+/**
+ * Footer
+ */
 footer {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   border-top: var(--border);
   padding: 10px 20px;
   max-width: $container-max-width;
   width: $container-width;
-  margin: 0 auto;
+  margin: 20px auto 0;
   color: var(--text-color);
 }
 
-.footer-left div {
-  margin-bottom: 5px; /* отступ между privacy и terms */
+.footer-left {
+  display: flex;
+  flex-direction: column; /* ссылки одна под другой */
+  gap: 5px;
+  text-align: left;
+}
+
+.footer-right {
+  text-align: right;
 }
 
 .footer-left a,
 .footer-right a {
   color: var(--link-color);
   text-decoration: none;
-  margin: 0 5px;
 }
 
 .footer-left a:hover,
@@ -58,10 +66,6 @@ footer {
   color: var(--background-color);
   background-color: var(--base-color);
 }
-
-
-
-
 
 /**
  * Highlight/Markup
