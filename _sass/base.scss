@@ -67,16 +67,6 @@ footer {
   background-color: var(--base-color);
 }
 
-
-/* Адаптивные картинки в постах */
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto; /* центрирование, если нужно */
-}
-
-
 /**
  * Highlight/Markup
  */
@@ -177,3 +167,20 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
 .highlight .vg { color: var(--code-color-7); } /* Name.Variable.Global */
 .highlight .vi { color: var(--code-color-7); } /* Name.Variable.Instance */
 .highlight .il { color: var(--code-color-14); } /* Literal.Number.Integer.Long */
+
+/* Контейнер для контента */
+main, .container {
+  width: 90%;
+  max-width: 600px;
+  margin: 0 auto;
+  box-sizing: border-box; /* учитываем padding в ширине */
+  padding: 0 10px; /* небольшой отступ для мобильных */
+}
+
+/* Адаптивные картинки */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
