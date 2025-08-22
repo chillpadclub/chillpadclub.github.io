@@ -4,6 +4,7 @@
 
 header_pages:
   - index.md
+  - Подключить <a href="https://t.me/CP_VPNBot">ChillPad VPN</a>
   - about.md
 
 footer: 'Подключить <a href="https://t.me/CP_VPNBot">ChillPad VPN</a> | <a href="/privacy">Политика конфиденциальности</a> | <a href="/terms">Пользовательское соглашение</a>'
