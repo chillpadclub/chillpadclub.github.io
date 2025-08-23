@@ -16,3 +16,23 @@ permalink: /
 # Инструкции:
 ### - [Как обновить настройки]({{ "/update_subs" | relative_url }})
 
+---
+<html data-lt-installed="true">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta name="description" content="INSERT_DESCRIPTION_HERE">
+        <title>INSERT_TITLE_HERE</title>
+    </head>
+    <body style="height: 100vh; margin: 0; padding: 0; overflow: hidden">
+        <iframe
+            src="https://ru.chillpad.club:3010/status/nodes"
+            frameborder="0"
+            width="100%"
+            height="100%"
+            allowtransparency="yes"
+            style="overflow: hidden; margin: 0; border: none"
+        ></iframe>
+    </body>
+</html>
