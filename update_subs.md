@@ -20,8 +20,8 @@ permalink: /update_subs
 
 # Содержание:
 
-: - [Введение](#зачем-вообще-обновлять-подписку-faq)
-: - [v2RayTun](#v2raytun-v2raytun)
+: - [Введение](#faq)
+: - [v2RayTun](#v2raytun)
 : - Happ
 : - FlClash
 
