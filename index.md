@@ -38,4 +38,4 @@ permalink: /
 
 # Инструкции:
 ### - [Как обновить настройки]({{ "/update_subs" | relative_url }})
-### - [v2raytun](#--v2raytun)
+
