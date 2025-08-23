@@ -10,9 +10,9 @@ permalink: /update_subs
 
 Ниже мы рассмотрим как обновить подписку.
 
-## v2raytun
-#### На iOS достаточно нажать одну кнопку.
+## v2raytun {#v2raytun}
+На iOS достаточно нажать одну кнопку.
 <img src="{{ "/assets/media/v2raytun-ios.jpeg" | relative_url }}" alt="iOS. Обновление подписки">
 
-#### На Android чуть иначе, но также просто.
+На Android чуть иначе, но также просто.
 <img src="{{ "/assets/media/v2raytun-android.jpeg" | relative_url }}" alt="Andoird. Обновление подписки." width="600">
