@@ -27,7 +27,7 @@ permalink: /
     </head>
     <body style="height: 100vh; margin: 0; padding: 0; overflow: hidden">
         <iframe
-            src="http://ru.chillpad.club:3010/status/nodes"
+            src="https://status.chillpad.net/status/nodes"
             frameborder="0"
             width="100%"
             height="100%"
