@@ -36,3 +36,11 @@ permalink: /
         ></iframe>
     </body>
 </html>
+
+<iframe
+    src="https://status.chillpad.club/status/nodes"
+    frameborder="0"
+    width="100%"
+    height="100%"
+    style="overflow: hidden; margin: 0; border: none"
+></iframe>
