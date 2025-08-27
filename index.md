@@ -45,5 +45,9 @@ permalink: /
     style="overflow: hidden; margin: 0; border: none"
 ></iframe>
 
+<<<<<<< HEAD
 
 <iframe src="https://chillpad.betteruptime.com" width="1000" height="800"></iframe>
+=======
+<iframe src="https://chillpad.betteruptime.com/badge?theme=dark" width="250" height="30" frameborder="0" scrolling="no" style="color-scheme: normal"></iframe>
+>>>>>>> 0c715a2 (	modified:   index.md)
