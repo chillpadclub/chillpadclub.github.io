@@ -5,7 +5,11 @@
   <title>{{ page.title }}</title>
   {%- seo title=false -%}
 
-  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
+  <link rel="icon" href="{{ '/assets/site/favicon-32x32.png' | relative_url }}" type="image/png" sizes="32x32">
+  <!-- можно добавить apple-touch и android -->
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/site/apple-touch-icon.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ '/assets/site/android-chrome-192x192.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="512x512" href="{{ '/assets/site/android-chrome-512x512.png' | relative_url }}">
 
   {% if page.robots %}
     <meta name="robots" content="{{page.robots}}" />
