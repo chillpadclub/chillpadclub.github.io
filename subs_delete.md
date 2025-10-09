@@ -17,5 +17,5 @@ permalink: /delete
 
 ---
 
-# Windows
-<img src="{{ "/assets/media/happ-delete-windows.png" | relative_url }}" alt="Windows. Удаление подписки">
+# Windows/macOS
+<img src="{{ "/assets/media/happ-delete-windows.png" | relative_url }}" alt="Windows/macOS. Удаление подписки">
