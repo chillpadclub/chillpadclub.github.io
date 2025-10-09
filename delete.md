@@ -3,9 +3,10 @@ layout: page
 title:  "Обновление подписки"
 permalink: /delete_subs
 ---
-<p style="text-align:center;">Как удалить старую подписку</p>
+# Как удалить старую подписку?
 ---
-<p style="text-align:center;"># iOS</p>
+
+# iOS
 <img src="{{ "/assets/media/happ-delete-ios.png" | relative_url }}" alt="iOS. Удаление подписки">
 
 ---
