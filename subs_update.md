@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Обновление подписки"
-permalink: /update_subs
+permalink: /update
 ---
 **Содержание:**
 : - [Введение](#faq)

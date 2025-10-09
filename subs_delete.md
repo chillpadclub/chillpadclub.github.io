@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Удаление подписки"
-permalink: /delete_subs
+permalink: /delete
 ---
 # Как удалить старую подписку?
 
