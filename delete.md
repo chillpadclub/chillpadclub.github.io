@@ -13,7 +13,9 @@ permalink: /delete_subs
 ---
 
 # Android
-<img src="{{ "/assets/media/happ-delete-android.png" | relative_url }}" alt="Android. Удаление подписки">---
+<img src="{{ "/assets/media/happ-delete-android.png" | relative_url }}" alt="Android. Удаление подписки">
+
+---
 
 # Windows
 <img src="{{ "/assets/media/happ-delete-windows.png" | relative_url }}" alt="Windows. Удаление подписки">
