@@ -39,6 +39,6 @@ Telegram может не работать из-за блокировок или 
 3.	Выберите MTProto
 4.	Введите данные:
 
-	•	Server: tg-01.chillpad.ney
+	•	Server: tg-01.chillpad.net
 	•	Port: 8443
 	•	Secret (Key): fdb8abcd66826c6a8beaa7d5117109d2
